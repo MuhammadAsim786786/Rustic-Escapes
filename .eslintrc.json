@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
   "extends": "react-app"
+=======
+  "extends": "next/core-web-vitals"
+>>>>>>> 6eaea02 (Initial commit from Create Next App)
 }
